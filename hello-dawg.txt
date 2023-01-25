@@ -1,3 +1,8 @@
 Yo, This file is being tracked by git.
 
 Welcome to git, dawg!
+
+Did some change after committing
+Again some change
+
+And another line.
